@@ -221,5 +221,11 @@ Route::controller(UserController::class)->group(function(){
 php artisan serve
 ```
 - Vào http://localhost:8000/users
+Lấy file excel có định dạng như sau 
 
-![Container](a.png)
+![Container](b1.png)
+
+imporrt file excel vào 
+
+![Container](b.png)
+
