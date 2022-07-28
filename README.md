@@ -229,3 +229,4 @@ imporrt file excel vào
 
 ![Container](b.png)
 
+- Lúc export nó sẽ tải về file như trên.
