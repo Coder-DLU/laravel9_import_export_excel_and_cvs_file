@@ -16,6 +16,7 @@ composer require maatwebsite/excel
 ```Dockerfile
 composer require maatwebsite/excel --ignore-platform-reqs
 ```
+--ignore-platform-reqs là bỏ qua yêu cầu nền tảng cụ thể
 ## 3. Create Dummy Records
 - Trong bước này, chúng tôi sẽ tạo một số bản ghi giả cho bảng người dùng, vì vậy chúng tôi có thể xuất chúng với người dùng đó. vì vậy hãy chạy lệnh tinker dưới đây:
 ```Dockerfile
