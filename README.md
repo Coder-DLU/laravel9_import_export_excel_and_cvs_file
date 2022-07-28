@@ -12,6 +12,10 @@ composer require psr/simple-cache:^1.0 maatwebsite/excel
 ```Dockerfile
 composer require maatwebsite/excel
 ```
+-Nếu lỗi chạy lệnh này :
+```Dockerfile
+composer require maatwebsite/excel --ignore-platform-reqs
+```
 ## 3. Create Dummy Records
 - Trong bước này, chúng tôi sẽ tạo một số bản ghi giả cho bảng người dùng, vì vậy chúng tôi có thể xuất chúng với người dùng đó. vì vậy hãy chạy lệnh tinker dưới đây:
 ```Dockerfile
